@@ -2,4 +2,4 @@
 
 Libraries used are Pygame, sys and random
 
-**Contains Presentation of the Project**
+**Contains Report, Synopsis and Presentation of the Project**
